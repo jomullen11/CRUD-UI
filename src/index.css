@@ -1,0 +1,8 @@
+.createForm {
+    display: block;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-evenly;
+}
